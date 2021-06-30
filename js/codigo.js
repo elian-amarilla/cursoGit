@@ -65,6 +65,7 @@ const cargarArchivo = (ar) =>{
         let videoElemento = document.createElement("VIDEO");
         videoElemento.src = url;
         document.querySelector(".resultado").appendChild(videoElemento);
+        alert("Video cargado exitosamente");
         videoElemento.play();
     })
 }
