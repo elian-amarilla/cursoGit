@@ -69,3 +69,5 @@ const cargarArchivo = (ar) =>{
         videoElemento.play();
     })
 }
+
+document.write("Mi abuela Elena is the better grandmother, the more beautiful and the more love.... María Elena Sánchez Ortíz I LOVE YOU, YOUR grandchild Elian");
